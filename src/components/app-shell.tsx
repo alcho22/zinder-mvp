@@ -3,6 +3,10 @@ import type { ReactNode } from "react";
 
 const primaryNav = [
   { href: "/", label: "Home" },
+  { href: "/services", label: "Services" },
+  { href: "/request-service", label: "Request Service" },
+  { href: "/dashboard/customer", label: "Customer Dashboard" },
+  { href: "/dashboard/provider", label: "Provider Dashboard" },
   { href: "/requests", label: "Requests" },
   { href: "/quotes", label: "Quotes" },
   { href: "/reviews", label: "Reviews" },
